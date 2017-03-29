@@ -1,0 +1,17 @@
+body {
+	font-family: 'Dosis', sans-serif;
+}
+.section-heading {
+	font-family:'Playfair Display', serif;
+	text-align: center;
+	margin: 0;
+	padding: 20px;
+	h1 {
+	}
+}
+
+@media (max-width: 930px) {
+	.header-text-container {
+		padding-left: 10px;
+	}
+}
